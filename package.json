@@ -25,7 +25,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/ganansagar/firstbirthday.git",
+  "homepage": "https://ganansagar.github.io/firstbirthday/",
   "eslintConfig": {
     "extends": [
       "react-app",
